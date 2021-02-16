@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I'm Lena, a beginner front-end developer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast!
+I'm Lena, a beginner front-end developer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 <br>
 
