@@ -109,7 +109,7 @@ I'm Lena, a beginner front-end developer. I make it my mission to translate user
 
 <br>
 
-## 📣 How about an Office quote before you go?
+<!-- ## 📣 How about an Office quote before you go?
 
 > {office_quote}
 >
@@ -117,4 +117,4 @@ I'm Lena, a beginner front-end developer. I make it my mission to translate user
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
-Check back at the top of the hour for a new quote!
+Check back at the top of the hour for a new quote! -->
