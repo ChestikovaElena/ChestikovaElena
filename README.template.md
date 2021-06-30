@@ -1,4 +1,4 @@
-<!-- [![Lena's GitHub Banner](./assets/hello.png)](https://chestikovaelena.dev) -->
+[![Lena's GitHub Banner](./assets/hello.png)]
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/елена-честикова-276890203/)
 [![CodeOpen Badge](https://img.shields.io/badge/CodeOpen-Profile-informational?style=flat&logo=codeopen&logoColor=white&color=0D76A8)](https://codepen.io/chestikovaelena)
 
