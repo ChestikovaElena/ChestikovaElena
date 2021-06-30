@@ -2,7 +2,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/елена-честикова-276890203/)
 [![CodeOpen Badge](https://img.shields.io/badge/CodeOpen-Profile-informational?style=flat&logo=codeopen&logoColor=white&color=0D76A8)](https://codepen.io/chestikovaelena)
 
-Hey there 👋
+Hey there 👋!
 
 I'm Lena, a beginner front-end developer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
