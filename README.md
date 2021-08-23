@@ -49,17 +49,9 @@ I'm Lena, a beginner front-end developer. I make it my mission to translate user
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ChestikovaElena&repo=chocco&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-
 <a href="https://github.com/ChestikovaElena/RockPaperScissors">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ChestikovaElena&repo=RockPaperScissors&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<a href="https://github.com/ChestikovaElena/air-asia">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ChestikovaElena&repo=air-asia&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
 
 <a href="https://github.com/ChestikovaElena/geo-review">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ChestikovaElena&repo=geo-review&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -68,8 +60,6 @@ I'm Lena, a beginner front-end developer. I make it my mission to translate user
 <a href="https://github.com/ChestikovaElena/chat">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ChestikovaElena&repo=chat&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<br>
 
 <a href="https://github.com/ChestikovaElena/Vk-filter">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ChestikovaElena&repo=Vk-filter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
