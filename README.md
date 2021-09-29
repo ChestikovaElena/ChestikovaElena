@@ -29,7 +29,7 @@ I'm Lena, a beginner front-end developer. I make it my mission to translate user
 </p>
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg"/>
+  <img src="https://img.shields.io/badge/Cypress-04C38E?style=for-the-badge&logo=cypress&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
